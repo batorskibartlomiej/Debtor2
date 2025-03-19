@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debtor2", "Debtor2\Debtor2.csproj", "{36F7B479-8432-4A83-A66F-7BAC3BD7F69C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debtor.Core2", "Debtor.Core2\Debtor.Core2.csproj", "{5D6E2F5D-18EA-4BBF-83E0-508684030266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36F7B479-8432-4A83-A66F-7BAC3BD7F69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F7B479-8432-4A83-A66F-7BAC3BD7F69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F7B479-8432-4A83-A66F-7BAC3BD7F69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F7B479-8432-4A83-A66F-7BAC3BD7F69C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D6E2F5D-18EA-4BBF-83E0-508684030266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6E2F5D-18EA-4BBF-83E0-508684030266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6E2F5D-18EA-4BBF-83E0-508684030266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6E2F5D-18EA-4BBF-83E0-508684030266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {424804B1-81ED-47CA-9906-98C306EEF076}
+	EndGlobalSection
+EndGlobal
